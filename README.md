@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Panish! 👋
 
-<!--
-**Panishlama/Panishlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Bachelor of IT Student
+- 🌱 Learning Django and building small projects
 
-Here are some ideas to get you started:
+## Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, Django  
+- **Databases:** SQL & Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 📫 Email: panishlama@example.com
+- 😄 Pronouns: he/him
