@@ -4,7 +4,7 @@
 - 🌱 Learning Django and building small projects
 
 ## Skills
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, REACT
 - **Backend:** Python, Django  
 - **Databases:** SQL & Databases
 
