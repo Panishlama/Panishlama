@@ -7,7 +7,7 @@
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, REACT
 - **Backend:** Python, Django,
-- **Ful-Stack** MERN(MonogDB, Express, React, Node)
+- **Ful-Stack:** MERN(MonogDB, Express, React, Node)
 - **Databases:** SQL & Databases, MongoDB
 
 ## Contact
